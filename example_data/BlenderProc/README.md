@@ -1,0 +1,3 @@
+The normal maps were rendered using [BlenderProc](https://github.com/DLR-RM/BlenderProc) from 3D meshes which are publicly available under CC BY 4.0 license. Data attribution:
+1. `bedroom`: Author: [dylanheyes](https://sketchfab.com/dylanheyes), published in 2023. Available at [https://sketchfab.com/3d-models/cozy-modern-bedroom-ea25adc53f514eaba9dd043f5eac9c77](https://sketchfab.com/3d-models/cozy-modern-bedroom-ea25adc53f514eaba9dd043f5eac9c77).
+2. `living_room`: Author: [ChristyHsu](https://sketchfab.com/ida61xq), published in 2022. Available at [https://sketchfab.com/3d-models/cozy-living-room-baked-581238dc5fda4dc990571cdc02827783](https://sketchfab.com/3d-models/cozy-living-room-baked-581238dc5fda4dc990571cdc02827783).

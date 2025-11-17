@@ -1,0 +1,4 @@
+[submodule "surface_normal_integration"]
+	path = third_party/surface_normal_integration
+	url = git@github.com:francescomilano172/surface_normal_integration.git
+	branch = wacv2026

@@ -1,0 +1,3 @@
+The normal maps were estimated using [DSINE](https://github.com/baegwangbin/DSINE) from in-the-wild images. Cf. [here](https://github.com/baegwangbin/DSINE/blob/main/LICENSE) for the license agreement of DSINE. Data attribution:
+1. `seafloor`: Image from the [DSINE repo](https://github.com/baegwangbin/DSINE/blob/main/projects/dsine/samples/img/228364_ALI.png).
+2. `wedding_cake`: Author: [cara fealy choate](https://www.flickr.com/people/22481796@N00), published in 2007. Available at [https://commons.wikimedia.org/wiki/File:Winter_Wedding_Cake.jpg](https://commons.wikimedia.org/wiki/File:Winter_Wedding_Cake.jpg).
