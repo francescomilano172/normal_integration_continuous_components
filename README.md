@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">WACV 2026</h2>
-<h3 align="center"><a href="https://arxiv.org/abs/2510.11508">Paper</a></h3>
+<h3 align="center"><a href="https://arxiv.org/abs/2510.11508">Paper</a> | <a href="https://www.youtube.com/watch?v=dZQAswCNM2E">Video</a></h3>
 
 
 <p align="center">
